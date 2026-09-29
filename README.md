@@ -1,49 +1,24 @@
 # Hi, I’m Methelesh Kumar Rattu 👋
 
-[Email](mailto:rattumethelesh@gmail.com) • [GitHub](https://github.com/mithileshkumarrattu) • [LinkedIn](https://in.linkedin.com/in/mithilesh-kumar-rattu) 
+Final-year Computer Science Engineering student focused on building practical web products, real-time systems, and AI-assisted applications.
+
+[Email](mailto:rattumethelesh@gmail.com) • [GitHub](https://github.com/mithileshkumarrattu) • [LinkedIn](https://in.linkedin.com/in/mithilesh-kumar-rattu)
+
+I work mainly with Next.js, React, TypeScript, Firebase, Python, APIs, payments, real-time data, and deployment workflows. I enjoy taking a real user requirement, turning it into clear product flows, and building a working system around it.
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <picture>img alt="github-snake" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000d3081f8a84e2cc2fa2c6da0&ts=497409&p=fs&cid=1&sig=029e3cd9cca77bedc277d49bf7d7abe22f58815739b0226f0409c66507c693fb&v=0" />
-      </picture>
-      <a>
-        <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000d3081f8a84e2cc2fa2c6da0&ts=497409&p=fs&cid=1&sig=029e3cd9cca77bedc277d49bf7d7abe22f58815739b0226f0409c66507c693fb&v=0" alt="Aadhrita — Techno-Cultural Fest Platform" width="100%" />
-      </a>
-      <br />
-      <b>Aadhrita</b><br />
-      Techno-Cultural Fest Platform
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mithileshkumarrattu/YOUR_PLACEMENT_REPOSITORY">
-        <img src="YOUR_PLACEMENT_IMAGE_URL_HERE" alt="MVGR Training and Placement Portal" width="100%" />
-      </a>
-      <br />
-      <b>MVGR Training &amp; Placement Portal</b><br />
-      Placement Workflow Platform
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/mithileshkumarrattu/YOUR_EEZINVEST_REPOSITORY">
-        <img src="YOUR_EEZINVEST_IMAGE_URL_HERE" alt="EeZ Invest — Learning and Mock-Test Platform" width="100%" />
-      </a>
-      <br />
-      <b>EeZ Invest</b><br />
-      Learning &amp; Mock-Test Platform
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mithileshkumarrattu/YOUR_FOURTH_REPOSITORY">
-        <img src="YOUR_FOURTH_PROJECT_IMAGE_URL_HERE" alt="Your fourth featured project" width="100%" />
-      </a>
-      <br />
-      <b>YOUR FOURTH PROJECT</b><br />
-      YOUR FOURTH PROJECT SUBTITLE
-    </td>
-  </tr>
-</table>
+- [**Aadhrita — Techno-Cultural Fest Platform**](https://github.com/mithileshkumarrattu/YOUR_AADHRITA_REPOSITORY)  
+  Multi-role fest platform with registrations, event workflows, QR-based entry validation, payment flow, admin operations, and Firebase-backed access control.
+
+- [**MVGR Training & Placement Portal**](https://github.com/mithileshkumarrattu/YOUR_PLACEMENT_REPOSITORY)  
+  Placement workflow platform with recruiter drives, candidate progression, role-based access, transaction-backed updates, and QR attendance.
+
+- [**EeZ Invest — Learning & Mock-Test Platform**](https://github.com/mithileshkumarrattu/YOUR_EEZINVEST_REPOSITORY)  
+  Course, mock-test, student dashboard, admin workflow, coupon, payment, and enrollment platform.
+
+- [**AlphaCandle — Real-Time Market Data Engine**](https://github.com/mithileshkumarrattu/YOUR_ALPHACANDLE_REPOSITORY)  
+  Python-based WebSocket market-data pipeline with reconnect handling, REST reconciliation, Telegram alerts, and VPS deployment.
 
 ## Languages
 
@@ -79,7 +54,7 @@
   <img src="https://img.shields.io/badge/Linux_VPS-fcc624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
