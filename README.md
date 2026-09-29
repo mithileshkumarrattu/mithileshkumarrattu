@@ -8,7 +8,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/mithileshkumarrattu/YOUR_AADHRITA_REPOSITORY">
-        <img src="YOUR_AADHRITA_IMAGE_URL_HERE" alt="Aadhrita — Techno-Cultural Fest Platform" width="100%" />
+        <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000d3081f8a84e2cc2fa2c6da0&ts=497409&p=fs&cid=1&sig=029e3cd9cca77bedc277d49bf7d7abe22f58815739b0226f0409c66507c693fb&v=0" alt="Aadhrita — Techno-Cultural Fest Platform" width="100%" />
       </a>
       <br />
       <b>Aadhrita</b><br />
