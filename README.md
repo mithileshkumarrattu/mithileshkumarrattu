@@ -7,6 +7,8 @@
 <table>
   <tr>
     <td width="50%">
+      <picture>img alt="github-snake" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000d3081f8a84e2cc2fa2c6da0&ts=497409&p=fs&cid=1&sig=029e3cd9cca77bedc277d49bf7d7abe22f58815739b0226f0409c66507c693fb&v=0" />
+      </picture>
       <a>
         <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000d3081f8a84e2cc2fa2c6da0&ts=497409&p=fs&cid=1&sig=029e3cd9cca77bedc277d49bf7d7abe22f58815739b0226f0409c66507c693fb&v=0" alt="Aadhrita — Techno-Cultural Fest Platform" width="100%" />
       </a>
@@ -76,12 +78,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_VPS-fcc624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
