@@ -8,16 +8,16 @@ I work mainly with Next.js, React, TypeScript, Firebase, Python, APIs, payments,
 
 ## Featured Projects
 
-- [**Aadhrita — Techno-Cultural Fest Platform**](https://github.com/mithileshkumarrattu/YOUR_AADHRITA_REPOSITORY)  
+- [**Aadhrita — Techno-Cultural Fest Platform**](https://github.com/mithileshkumarrattu/aadhrita_final)  
   Multi-role fest platform with registrations, event workflows, QR-based entry validation, payment flow, admin operations, and Firebase-backed access control.
 
-- [**MVGR Training & Placement Portal**](https://github.com/mithileshkumarrattu/YOUR_PLACEMENT_REPOSITORY)  
+- [**MVGR Training & Placement Portal**](https://github.com/mithileshkumarrattu/mvgr-placement-cell)  
   Placement workflow platform with recruiter drives, candidate progression, role-based access, transaction-backed updates, and QR attendance.
 
-- [**EeZ Invest — Learning & Mock-Test Platform**](https://github.com/mithileshkumarrattu/YOUR_EEZINVEST_REPOSITORY)  
+- [**EeZ Invest — Learning & Mock-Test Platform**](https://github.com/mithileshkumarrattu/eezinvest)  
   Course, mock-test, student dashboard, admin workflow, coupon, payment, and enrollment platform.
 
-- [**AlphaCandle — Real-Time Market Data Engine**](https://github.com/mithileshkumarrattu/YOUR_ALPHACANDLE_REPOSITORY)  
+- [**Trading Algorithm - 3 strategies**](https://github.com/mithileshkumarrattu/trading-algo)  
   Python-based WebSocket market-data pipeline with reconnect handling, REST reconciliation, Telegram alerts, and VPS deployment.
 
 ## Languages
