@@ -14,7 +14,7 @@ I work mainly with Next.js, React, TypeScript, Firebase, Python, APIs, payments,
 - [**MVGR Training & Placement Portal**](https://github.com/mithileshkumarrattu/mvgr-placement-cell)  
   Placement workflow platform with recruiter drives, candidate progression, role-based access, transaction-backed updates, and QR attendance.
 
-- [**EeZ Invest — Learning & Mock-Test Platform**](https://github.com/mithileshkumarrattu/eezinvest)  
+- [**EeZ Invest — Freelance project**](https://github.com/mithileshkumarrattu/eezinvest)  
   Course, mock-test, student dashboard, admin workflow, coupon, payment, and enrollment platform.
 
 - [**Trading Algorithm - 3 strategies**](https://github.com/mithileshkumarrattu/trading-algo)  
